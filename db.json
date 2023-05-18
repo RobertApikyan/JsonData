@@ -1,5 +1,5 @@
 {
-  "posts": [
+  "post": [
     {
       "id": 1,
       "title": "hello"
@@ -9,13 +9,18 @@
       "title": "hello"
     }
   ],
-  "gets": [
+  "get": [
     {
       "id": 1,
-      "title": "hello"
+      "name": "Bob",
+      "skills": ["Flutter Developer","UI/UX designer"]
     }
   ],
   "profile": {
-    "name": "typicode"
+     
+      "id": 1,
+      "name": "Bob",
+      "skills": ["Flutter Developer","UI/UX designer"]
+    
   }
 }

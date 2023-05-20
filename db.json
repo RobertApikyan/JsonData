@@ -1,21 +1,5 @@
 {
-   "books":[
-      {
-         "id":1,
-         "bookName":"To Kill a Mockingbird",
-         "author":"Harper Lee"
-      },
-      {
-         "id":2,
-         "bookName":"1984",
-         "author":"George Orwell"
-      },
-      {
-         "id":3,
-         "bookName":"Pride and Prejudice",
-         "author":"Jane Austen"
-      }
-   ],
+   
    "get":[
       {
          "id":1,

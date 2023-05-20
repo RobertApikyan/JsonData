@@ -1,12 +1,19 @@
 {
-  "post": [
+  "books": [
     {
       "id": 1,
-      "title": "hello"
-    },  
+      "bookName": "To Kill a Mockingbird",
+      "author": "Harper Lee"
+    },
     {
       "id": 2,
-      "title": "hello"
+      "bookName": "1984",
+      "author": "George Orwell"
+    },
+    {
+      "id": 3,
+      "bookName": "Pride and Prejudice",
+      "author": "Jane Austen"
     }
   ],
   "get": [
@@ -16,11 +23,14 @@
       "skills": ["Flutter Developer","UI/UX designer"]
     }
   ],
+  "delete": [
+    {
+      "success": true,
+    }
+  ],
   "profile": {
-     
       "id": 1,
       "name": "Bob",
       "skills": ["Flutter Developer","UI/UX designer"]
-    
   }
 }

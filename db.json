@@ -148,51 +148,5 @@
       "millisecondsAccumulated":1706517,
       "state":"completed"
    }
-],
-   "tasks": [
-   {
-      "name":"Implement animated UI transitions for app login screen.",
-      "id":"UniqueKey#1"
-   },
-   {
-      "name":"Optimize performance of image loading in gallery application.",
-      "id":"UniqueKey#2"
-   },
-   {
-      "name":"Integrate authentication with social media app.",
-      "id":"UniqueKey#3"
-   },
-   {
-      "name":"Develop custom UI for dynamic data visualization in dashboard.",
-      "id":"UniqueKey#4"
-   },
-   {
-      "name":"Implement dark mode toggle feature in settings page.",
-      "id":"UniqueKey#5"
-   },
-   {
-      "name":"Enhance search functionality with autocomplete suggestions.",
-      "id":"UniqueKey#6"
-   },
-   {
-      "name":"Integrate push notifications for new message alerts.",
-      "id":"UniqueKey#7"
-   },
-   {
-      "name":"Refactor UI components for better accessibility compliance.",
-      "id":"UniqueKey#8"
-   },
-   {
-      "name":"Implement in-app purchase functionality for premium features.",
-      "id":"UniqueKey#9"
-   },
-   {
-      "name":"Optimize backend API calls for faster data retrieval.",
-      "id":"UniqueKey#10"
-   },
-   {
-      "name":"Design and implement onboarding tutorial screens.",
-      "id":"UniqueKey#11"
-   }
 ]
 }
